@@ -9,7 +9,7 @@ Name of Quantlet: VIXfutures
 
 Published in: Neural Networks and Arbitrage in the VIX–A Deep Learning Approach for the VIX
 
-Description: Contains the VIX index and the VIX future intraday analysis on the tail-event day of February 5, 2018.
+Description: Contains the VIX index and the VIX future intraday analysis on the tail-event day of February 5, 2018. The next day, Credit Suisse lost 500m USD because of a structured product on the VIX. Market disruption can already be observed the day before.
 
 Keywords: 
 - VIX
